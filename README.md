@@ -1,11 +1,11 @@
-# TabgGunGame
-TABG Brawl GunGame Latest Assembly C Sharp File
+DOWNLOAD TABG MOD LAUNCHER IT AUTOMATICALLY PULLS LATEST MOD UPDATE FROM THIS GITHUB
 
-How to install Brawl guide, version 2.0:
-1. Download the latest pinned Assembly-CSharp.dll (make sure it doesn't get renamed in your downloads directory if you have multiple copies)
-2. In Steam, right-click Totally Accurate Battlegrounds, click Properties
-3. Go to Local Files tab -> Browse Local Files...
-4. Open the TotallyAccurateBattlegrounds_Data/Managed folder
-5. Re-name the original Assembly-CSharp.dll to something like Assembly-CSharp-backup.dll
-6. Copy and paste the downloaded .dll in this folder
-7. Launch the game and enjoy
+1. DOWNLOAD TABGModLauncher.Exe
+2. Run It
+3. Select Modded
+4. Hit Launch
+5. You should be in the game now
+6. Change solo to squads if its not already on squads (usually, unless told otherwise by other players to go solo)
+7. Hit Ready
+8. Click Brawl
+9. Have Fun
